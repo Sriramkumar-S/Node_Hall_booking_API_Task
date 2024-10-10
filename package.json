@@ -1,0 +1,16 @@
+{
+  "name": "hall_booling_api_task",
+  "version": "1.0.0",
+  "description": "Hall Booking API Task",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "uuid": "^10.0.0"
+  }
+}
